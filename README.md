@@ -1,3 +1,1 @@
 # Education-Loan-Calculator
-
-JavaScript 
